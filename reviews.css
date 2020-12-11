@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 30rem;
+    width: 50%;
+    margin-top: 6%;
+    text-align: center;
+}.underline
+{
+    width: 20%;
+    height: 1.5%;
+    background-color: skyblue;
+    margin-left: 40%;
+    
+}
+.reviews
+{
+    background-color: snow;
+    margin-top: 10%;
+    box-shadow: 7px 7px 17px;
+    padding: 2rem;
+}
+#author{
+    letter-spacing: 1px;
+}
+#job
+{
+    color: turquoise;
+}
+.btn-container button
+{
+ color: turquoise;
+ border: none;
+ background: none;
+ font-size: 25;
+ font-weight: 700;
+ 
+}
+.next-button{
+    margin-left: 2rem;
+}
+.random-button{
+    border-color: turquoise!important;
+    color: turquoise!important;
+}
